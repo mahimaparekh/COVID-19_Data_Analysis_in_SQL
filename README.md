@@ -15,9 +15,9 @@ Project Files:
 * Report.pdf: a detailed analysis report explaining the sql queries used and the results obtained
 
 To run this project locally, follow these steps:
-1. Download this project from github
-2. Ensure you have SSMS installed on your computer.
-3. Create a new database in SQL Server.
+1. Clone or download this repository to your local machine
+2. Ensure you have SSMS installed on your computer or download it from here https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16.
+3. Open SQL Server and create a new database in SQL Server.
 4. Import `CovidDeaths.xlsx` and `CovidVaccinations.xlsx` as tables
 5. Open the `SQL_Script.sql` file and execute the SQL queries in your SQL Server environment. These queries will retrieve and analyze the data from the tables.
 
